@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Skingenee(ai skin care app) <br>👯 I’m looking to collaborate on Harvi ( Agricultural robot) <br>🤝 I’m looking for help with<br>🌱 I’m currently learning MongoDB, AI/ML<br>💬 Ask me about web development, JavaScript, and AI/ML Projects.<br>
+🔭 I’m currently working on Skingenee(ai skin care app) <br>👯 I’m looking to collaborate on Harvi ( Agricultural robot) <br>🌱 I’m currently learning MongoDB, AI/ML<br>💬 Ask me about web development, JavaScript, and AI/ML Projects.<br>
 
 
 ## 🌐 Socials:
